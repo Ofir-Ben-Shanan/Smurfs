@@ -1,0 +1,39 @@
+[ {
+  "creationTime" : {
+    "offset" : {
+      "totalSeconds" : 7200,
+      "id" : "+02:00",
+      "rules" : {
+        "fixedOffset" : true,
+        "transitions" : [ ],
+        "transitionRules" : [ ]
+      }
+    },
+    "nano" : 914120500,
+    "year" : 2022,
+    "monthValue" : 12,
+    "dayOfMonth" : 1,
+    "hour" : 15,
+    "minute" : 51,
+    "second" : 19,
+    "month" : "DECEMBER",
+    "dayOfWeek" : "THURSDAY",
+    "dayOfYear" : 335
+  },
+  "lifeExpectation" : {
+    "seconds" : 5,
+    "zero" : false,
+    "nano" : 0,
+    "negative" : false,
+    "positive" : true,
+    "units" : [ "SECONDS", "NANOS" ]
+  },
+  "firstName" : "TAL",
+  "lastName" : "LEVI",
+  "id" : "e4682414-14f0-4e0a-80a7-3e5fe535b608",
+  "coordinate" : {
+    "radius" : 2198.3530673297832,
+    "theta" : 1.6536088725402405,
+    "phi" : 2.209129225047993
+  }
+} ]
